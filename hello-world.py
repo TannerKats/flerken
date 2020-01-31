@@ -1,4 +1,5 @@
-print("Hello, World!")
+while true:
+    print ("Hello, World!")
 
 
 
