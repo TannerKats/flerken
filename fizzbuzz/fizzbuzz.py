@@ -1,6 +1,6 @@
 i = 0
 
-while i < 1001:
+while i <= 1000:
     if i % 15 == 0:
         print ("FizzBuzz")
     elif i % 5 == 0:
